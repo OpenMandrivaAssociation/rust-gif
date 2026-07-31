@@ -6,8 +6,8 @@
 %global crate gif
 
 Name:           rust-%{crate}
-Version:        0.10.3
-Release:        2%{?dist}
+Version:        0.14.2
+Release:        1%{?dist}
 Summary:        GIF de- and encoder
 
 # Upstream license specification: MIT/Apache-2.0
